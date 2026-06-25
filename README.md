@@ -1,2 +1,2 @@
-# junyiicc.github.io
-Personal website
+# Junyi's personal website
+Hi there :)
